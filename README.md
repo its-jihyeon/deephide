@@ -7,7 +7,7 @@
 ![Paper](https://img.shields.io/badge/Paper-KIEE-blueviolet)
 
 ## 📖 프로젝트 개요 (Abstract)
-본 프로젝트는 **GAN(Generative Adversarial Network)** 기반의 이미지 정보 은닉 시스템과 **CNN(Convolutional Neural Network)** 기반의 은닉 여부 탐지 시스템을 통합한 솔루션입니다. 기존 스테가노그래피 기술의 한계를 넘어, 딥러닝을 통해 육안으로 식별 불가능한 고화질 스테고 이미지(Stego Image)를 생성하고, 이를 높은 정확도로 판별할 수 있습니다.
+본 프로젝트는 **GAN(Generative Adversarial Network)** 기반의 이미지 정보 은닉 시스템과 **CNN(Convolutional Neural Network)** 기반의 은닉 여부 탐지 시스템을 통합한 솔루션입니다. 딥러닝을 통해 육안으로 식별하기 어려운 고화질 스테고 이미지(Stego Image)를 생성하고, 이를 판별할 수 있습니다.
 
 > **성과:** 본 연구는 **2025년도 대한전기학회(KIEE) 하계학술대회** 논문집에 출간되었습니다.
 
