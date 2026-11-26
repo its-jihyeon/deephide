@@ -52,7 +52,7 @@
 
 ### 2. 판별 정확도 (Detection Accuracy)
 * **Accuracy:** 83.8% 
-* **AUC:** 0.92
+* **AUC:** 0.93
 * **Loss:** 0.29 
 
 ![Figure 2: Detection Metrics](./images/fig2_cnn_metrics.png)
